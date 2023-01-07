@@ -4,9 +4,8 @@ using namespace std;
 
 int main(void)
 {
+	cout << "Enter three sides of triangle to determine triangle's type" << endl << endl;
 	int x, y, z;
-
-
 
 	cout << " First Side of triangle: ";
 	cin >> x;
